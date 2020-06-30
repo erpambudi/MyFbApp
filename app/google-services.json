@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "49139605057",
+    "firebase_url": "https://myfirebase-bb8d6.firebaseio.com",
+    "project_id": "myfirebase-bb8d6",
+    "storage_bucket": "myfirebase-bb8d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49139605057:android:118b79fc1c2a3cd31930c0",
+        "android_client_info": {
+          "package_name": "com.ngodingyuk.myfbapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49139605057-da75tv6c9t3k8o457r5jg8osrs0lpiin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_vAGVJEUF4dG5C3nCTSWDXK-rT9g780I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49139605057-da75tv6c9t3k8o457r5jg8osrs0lpiin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
